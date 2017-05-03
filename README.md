@@ -1,0 +1,2 @@
+# scalastu
+scala
